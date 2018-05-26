@@ -12,6 +12,8 @@ import java.net.URL;
 import java.net.URLClassLoader;
 
 /**
+ *
+ * 动态代理简单实现
  * //JDK6 Complier API, CGLib, ASM
  *
  * 实现任意对象的,任意接口方法,任意代理实现(权限,时间,事物,日志....)
